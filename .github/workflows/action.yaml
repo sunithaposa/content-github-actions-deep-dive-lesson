@@ -1,0 +1,6 @@
+name: Deploy my lamabda
+
+on:
+ push:
+  branches:
+    -main
